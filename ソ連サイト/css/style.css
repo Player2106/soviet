@@ -1,0 +1,71 @@
+body {
+    font-size: 24px;
+    background-color: rgb(240, 13, 13);
+    color: #ffc400;
+    text-align: left;
+    
+}
+
+header {
+    height: 30%;
+    
+}
+
+.header-logo {
+    font-weight: bold;
+    font-size: 48px;
+    padding-top: 10px;
+}
+
+.head-explain {
+    font-size: 32px;
+    margin-top: 8px;
+    margin-left: 48px;
+}
+
+/* ここからmain部分 */
+main {
+    margin-top: 32px;
+    margin-left: 48px;
+}
+
+.music-name {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.syousai {
+    position: absolute;
+    right: 32px;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+
+.music-explain {
+    margin-top: 16px;
+}
+
+.video-link {
+    margin-top: 16px;
+    
+}
+
+.music-img {
+    width: 1280px;
+    height: 800px;
+    margin-top: 16px;
+    
+}
+
+/* 下部自己紹介 */
+.zikosyoukai {
+    font-size: 32px;
+    margin-top: 16px;
+}
+
+.me {
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+
